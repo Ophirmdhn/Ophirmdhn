@@ -2,7 +2,7 @@
 
 ### My name is Ophi Ramadhan.
 
-Saya adalah...
+I'm...
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
@@ -11,6 +11,6 @@ Saya adalah...
 </a>
 </p>
 
-### Ayo Terhubung!
+### Reach me on!
 - <a href="https://www.instagram.com/ophirmdhn_/">Instagram</a>
 - <a href="https://www.linkedin.com/in/ophi-ramadhan-b27313261/">LinkedIn</a>

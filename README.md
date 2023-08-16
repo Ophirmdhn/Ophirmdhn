@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hi gaess!
 
+## My name is Ophi Ramadhan.
+
+Saya adalah...
 <!--
 **Ophirmdhn/Ophirmdhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

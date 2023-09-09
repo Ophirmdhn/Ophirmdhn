@@ -12,5 +12,9 @@
 </p>
 
 ### Reach me on!
-- <a href="https://www.instagram.com/ophirmdhn_/">Instagram</a>
-- <a href="https://www.linkedin.com/in/ophi-ramadhan-b27313261/">LinkedIn</a>
+- <a href="https://www.instagram.com/ophirmdhn_/">
+   <img align="center" src="https://img.shields.io/badge/-@ophirmdhn_-05122A?style=flat&logo=instagram" alt="Instagram"/>
+  </a>
+- <a href="https://www.linkedin.com/in/ophi-ramadhan-b27313261/">
+    <img align="center" src="https://img.shields.io/badge/-Ophi Ramadhan-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>

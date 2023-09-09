@@ -2,7 +2,7 @@
 
 ### My name is Ophi Ramadhan.
 
-I'm...
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ophirmdhn&color=020079" alt="Profile views" /> </p>
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
